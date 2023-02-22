@@ -1,0 +1,185 @@
+[
+    {
+        "cpu_name": "Intel Core i9-13900K",
+        "mark": 58695,
+        "detail": {
+            "Release": "Q3 2022",
+            "Cache Size": "L1: 2176 KB, L2: 32.0 MB, L3: 36 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "16 Cores, 16 Threads, 2.2 GHz Base, 4.3 GHz Turbo",
+            "Alias": "13th Gen Intel(R) Core(TM) i9-13900K, 13th Gen Intel Core i9-13900K",
+            "Performance Cores": "8 Cores, 16 Threads, 3.0 GHz Base, 5.8 GHz Turbo",
+            "TDP Up": "253 W",
+            "Total Cores": "24 Cores, 32 Threads",
+            "Typical TDP": "125 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i9-13900KF",
+        "mark": 59696,
+        "detail": {
+            "Release": "Q4 2022",
+            "Cache Size": "L1: 2176 KB, L2: 32.0 MB, L3: 36 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "16 Cores, 16 Threads, 2.2 GHz Base, 4.3 GHz Turbo",
+            "Alias": "13th Gen Intel(R) Core(TM) i9-13900KF",
+            "Performance Cores": "8 Cores, 16 Threads, 3.0 GHz Base, 5.8 GHz Turbo",
+            "TDP Up": "253 W",
+            "Total Cores": "24 Cores, 32 Threads",
+            "Typical TDP": "125 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i7-13700KF",
+        "mark": 47630,
+        "detail": {
+            "Release": "Q4 2022",
+            "Cache Size": "L1: 1408 KB, L2: 24.0 MB, L3: 30 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "8 Cores, 8 Threads, 2.5 GHz Base, 3.4 GHz Turbo",
+            "Alias": "13th Gen Intel(R) Core(TM) i7-13700KF",
+            "Performance Cores": "8 Cores, 16 Threads, 4.2 GHz Base, 5.4 GHz Turbo",
+            "TDP Up": "253 W",
+            "Total Cores": "16 Cores, 24 Threads",
+            "Typical TDP": "125 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i7-13700K",
+        "mark": 46554,
+        "detail": {
+            "Release": "Q4 2022",
+            "Cache Size": "L1: 1408 KB, L2: 24.0 MB, L3: 30 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "8 Cores, 8 Threads, 2.5 GHz Base, 3.4 GHz Turbo",
+            "Alias": "13th Gen Intel(R) Core(TM) i7-13700K",
+            "Performance Cores": "8 Cores, 16 Threads, 4.2 GHz Base, 5.4 GHz Turbo",
+            "TDP Up": "253 W",
+            "Total Cores": "16 Cores, 24 Threads",
+            "Typical TDP": "125 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i7-13700",
+        "mark": 34431,
+        "detail": {
+            "Release": "Q3 2022",
+            "Cache Size": "L1: 1408 KB, L2: 24.0 MB, L3: 30 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "8 Cores, 8 Threads, NA Base, 4.1 GHz Turbo",
+            "Alias": "13th Gen Intel(R) Core(TM) i7-13700",
+            "Performance Cores": "8 Cores, 16 Threads, 2.1 GHz Base, 5.2 GHz Turbo",
+            "Total Cores": "16 Cores, 24 Threads",
+            "Typical TDP": "65 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i5-12600HX",
+        "mark": 23493,
+        "detail": {
+            "Release": "Q2 2022",
+            "Cache Size": "L1: 1088 KB, L2: 9.0 MB, L3: 18 MB",
+            "Platform": "Laptop",
+            "Efficient Cores": "8 Cores, 8 Threads, 1.8 GHz Base, 3.3 GHz Turbo",
+            "Alias": "12th Gen Intel(R) Core(TM) i5-12600HX",
+            "Performance Cores": "4 Cores, 8 Threads, 2.5 GHz Base, 4.6 GHz Turbo",
+            "TDP Down": "45 W",
+            "TDP Up": "157 W",
+            "Total Cores": "12 Cores, 16 Threads",
+            "Typical TDP": "55 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i5-12600H",
+        "mark": 22704,
+        "detail": {
+            "Release": "Q2 2022",
+            "Cache Size": "L1: 1088 KB, L2: 9.0 MB, L3: 18 MB",
+            "Platform": "Laptop",
+            "Efficient Cores": "8 Cores, 8 Threads, 2.0 GHz Base, 3.3 GHz Turbo",
+            "Alias": "12th Gen Intel(R) Core(TM) i5-12600H",
+            "Performance Cores": "4 Cores, 8 Threads, 2.7 GHz Base, 4.5 GHz Turbo",
+            "TDP Down": "35 W",
+            "TDP Up": "95 W",
+            "Total Cores": "12 Cores, 16 Threads",
+            "Typical TDP": "45 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i5-12600T",
+        "mark": 17033,
+        "detail": {
+            "Release": "Q1 2022",
+            "Cache Size": "L1: 480 KB, L2: 7.5 MB, L3: 18 MB",
+            "Platform": "Desktop",
+            "Clockspeed": "2.1 GHz",
+            "Cores": "6",
+            "Alias": "12th Gen Intel(R) Core(TM) i5-12600T",
+            "TDP Up": "74 W",
+            "Threads": "12",
+            "Turbo Speed": "4.6 GHz",
+            "Typical TDP": "35 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i5-12600KF",
+        "mark": 27407,
+        "detail": {
+            "Release": "Q4 2021",
+            "Cache Size": "L1: 864 KB, L2: 9.5 MB, L3: 20 MB",
+            "Platform": "Desktop",
+            "Efficient Cores": "4 Cores, 4 Threads, 2.8 GHz Base, 3.6 GHz Turbo",
+            "Alias": "12th Gen Intel(R) Core(TM) i5-12600KF, 12th Gen Intel Core i5-12600KF",
+            "Performance Cores": "6 Cores, 12 Threads, 3.6 GHz Base, 4.9 GHz Turbo",
+            "TDP Down": "125 W",
+            "Total Cores": "10 Cores, 16 Threads",
+            "Typical TDP": "150 W"
+        }
+    },
+    {
+        "cpu_name": "Intel Core i5-12600",
+        "mark": 21210,
+        "detail": {
+            "Release": "Q1 2022",
+            "Cache Size": "L1: 480 KB, L2: 7.5 MB, L3: 18 MB",
+            "Platform": "Desktop",
+            "Clockspeed": "3.3 GHz",
+            "Cores": "6",
+            "Alias": "12th Gen Intel(R) Core(TM) i5-12600, 12th Gen Intel Core i5-12600",
+            "TDP Up": "117 W",
+            "Threads": "12",
+            "Turbo Speed": "4.8 GHz",
+            "Typical TDP": "65 W"
+        }
+    },
+    {
+        "cpu_name": "AMD Ryzen Threadripper 3990X",
+        "mark": 81343,
+        "detail": {
+            "Release": "Q1 2020",
+            "Cache Size": "L1: 4096 KB, L2: 32.0 MB, L3: 256 MB",
+            "Platform": "Desktop",
+            "Clockspeed": "2.9 GHz",
+            "Cores": "64",
+            "Alias": "AMD Ryzen Threadripper 3990X 64-Core Processor",
+            "Threads": "128",
+            "Turbo Speed": "4.3 GHz",
+            "Typical TDP": "280 W"
+        }
+    },
+    {
+        "cpu_name": "AMD Ryzen 9 7900X",
+        "mark": 51907,
+        "detail": {
+            "Release": "Q3 2022",
+            "Cache Size": "L1: 768 KB, L2: 12.0 MB, L3: 64 MB",
+            "Platform": "Desktop",
+            "Clockspeed": "4.7 GHz",
+            "Cores": "12",
+            "Alias": "AMD Ryzen 9 7900X 12-Core Processor",
+            "Threads": "24",
+            "Turbo Speed": "5.6 GHz",
+            "Typical TDP": "170 W"
+        }
+    }
+]

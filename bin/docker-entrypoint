@@ -1,0 +1,30 @@
+#!/bin/bash
+set -e
+
+server() {
+  bert-serving-start -model_dir /app/bin/cased_L-12_H-768_A-12 -num_worker=1 & \
+  gunicorn -b 0.0.0.0:5001 --name tfe tfe.wsgi:app
+}
+
+help() {
+  echo "GsRec Docker."
+  echo ""
+  echo "Usage:"
+  echo ""
+
+  echo "server -- start GsRec server (with gunicorn)"
+}
+
+case "$1" in
+  server)
+    shift
+    server
+    ;;
+  help)
+    shift
+    help
+    ;;
+  *)
+    exec "$@"
+    ;;
+esac

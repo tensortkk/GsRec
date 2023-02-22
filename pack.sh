@@ -1,0 +1,1 @@
+pip3 wheel --wheel-dir=./ ./

@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Apple iPad Pro 11.0 3rd Gen",
+        "score": 45086,
+        "average_cpu_mark": 15142,
+        "mem_mark": 59434,
+        "dist_mark": 43507,
+        "2d_mark": 51995,
+        "3d_mark": 22556
+    },
+    {
+        "name": "Apple iPad Pro 12.9 3nd Gen",
+        "score": 29027,
+        "average_cpu_mark": 8725,
+        "mem_mark": 42439,
+        "dist_mark": 21758,
+        "2d_mark": 27731,
+        "3d_mark": 20656
+    },
+    {
+        "name": "Apple iPad Mini 4",
+        "score": 7209,
+        "average_cpu_mark": 1469,
+        "mem_mark": 10424,
+        "dist_mark": 4664,
+        "2d_mark": 7919,
+        "3d_mark": 7228
+    },
+    {
+        "name": "Apple iPhone 14",
+        "score": 36359,
+        "average_cpu_mark": 9962,
+        "mem_mark": 53594,
+        "dist_mark": 29829,
+        "2d_mark": 46439,
+        "3d_mark": 18486
+    },
+    {
+        "name": "Apple iPhone 14 Pro Max",
+        "score": 38578,
+        "average_cpu_mark": 11003,
+        "mem_mark": 59933,
+        "dist_mark": 31535,
+        "2d_mark": 49491,
+        "3d_mark": 19204
+    },
+    {
+        "name": "Apple iPhone 13 Pro Max",
+        "score": 34529,
+        "average_cpu_mark": 10010,
+        "mem_mark": 52093,
+        "dist_mark": 25658,
+        "2d_mark": 47422,
+        "3d_mark": 18906
+    },
+    {
+        "name": "Apple iPhone X",
+        "score": 17719,
+        "average_cpu_mark": 4160,
+        "mem_mark": 24472,
+        "dist_mark": 11946,
+        "2d_mark": 25274,
+        "3d_mark": 14237
+    },
+    {
+        "name": "Apple iPad Air 5",
+        "score": 36773,
+        "average_cpu_mark": 13869,
+        "mem_mark": 55408,
+        "dist_mark": 28656,
+        "2d_mark": 48231,
+        "3d_mark": 18592
+    }
+]

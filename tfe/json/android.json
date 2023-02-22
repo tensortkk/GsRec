@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Samsung Galaxy S21 5G",
+        "score": 11469,
+        "average_cpu_mark": 5330,
+        "mem_mark": 26505,
+        "dist_mark": 1729,
+        "2d_mark": 41028,
+        "3d_mark": 40900
+    },
+    {
+        "name": "Samsung Galaxy S20 5G",
+        "score": 11018,
+        "average_cpu_mark": 5196,
+        "mem_mark": 25232,
+        "dist_mark": 57972,
+        "2d_mark": 39493,
+        "3d_mark": 42835
+    },
+    {
+        "name": "Samsung Galaxy S9+",
+        "score": 6875,
+        "average_cpu_mark": 3325,
+        "mem_mark": 16015,
+        "dist_mark": 14305,
+        "2d_mark": 24010,
+        "3d_mark": 28832
+    },
+    {
+        "name": "Huawei P40 Pro 5g",
+        "score": 9046,
+        "average_cpu_mark": 4071,
+        "mem_mark": 24208,
+        "dist_mark": 91581,
+        "2d_mark": 35746,
+        "3d_mark": 33995
+    },
+    {
+        "name": "Xiaomi Redmi K40s",
+        "score": 8379,
+        "average_cpu_mark": 4187,
+        "mem_mark": 17952,
+        "dist_mark": 12735,
+        "2d_mark": 28898,
+        "3d_mark": 22054
+    },
+    {
+        "name": "Xiaomi 11 Ultra",
+        "score": 11500,
+        "average_cpu_mark": 5487
+    },
+    {
+        "name": "Xiaomi Mi 10",
+        "score": 11140,
+        "average_cpu_mark": 5112,
+        "mem_mark": 24351,
+        "dist_mark": 40476,
+        "2d_mark": 42770,
+        "3d_mark": 37792
+    },
+    {
+        "name": "OPPO Reno 10x Zoom",
+        "score": 8830,
+        "average_cpu_mark": 4170,
+        "mem_mark": 25246,
+        "dist_mark": 43498,
+        "2d_mark": 36680,
+        "3d_mark": 27677
+    },
+    {
+        "name": "Vivo I2012",
+        "score": 10915,
+        "average_cpu_mark": 5004,
+        "mem_mark": 24495,
+        "dist_mark": 0,
+        "2d_mark": 46336,
+        "3d_mark": 32235
+    }
+]

@@ -1,0 +1,19 @@
+Flask==1.1.4
+Flask-RESTful
+Flask-SQLAlchemy
+gunicorn==20.1.0
+numpy==1.19.2
+pandas==1.1.5
+requests==2.25.1
+Werkzeug==0.16.0
+simplejson
+markupsafe==2.0.1
+bert_serving
+bert-serving-server==1.10.0
+bert-serving-client==1.10.0
+tensorflow==1.15.0
+torch
+faiss-cpu
+# conda create --name faiss python=3.6 -y
+# conda activate faiss
+# conda install -c pytorch faiss-cpu -y

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "iPhone 13 Pro Max",
+        "description": "Apple A15 Bionic @ 3.2 GHz",
+        "multi_core_score": 4676,
+        "metal_score": "14203",
+        "model_identifier": "iPhone14,3",
+        "processor": "Apple A15 Bionic",
+        "processor_frequency": "3230 MHz",
+        "processor_cores": 6
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "description": "Apple A14 Bionic @ 3.0 GHz",
+        "multi_core_score": 3872,
+        "metal_score": "9175",
+        "model_identifier": "iPhone13,3",
+        "processor": "Apple A14 Bionic",
+        "processor_frequency": "2990 MHz",
+        "processor_cores": 6
+    },
+    {
+        "name": "iPad Air (5th generation)",
+        "description": "Apple M1 @ 3.2 GHz",
+        "multi_core_score": 7138,
+        "metal_score": "N/A",
+        "model_identifier": "iPad13,16",
+        "processor": "Apple M1",
+        "processor_frequency": "3190 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "iPad Pro (11-inch 3rd generation)",
+        "description": "Apple M1 @ 3.2 GHz",
+        "multi_core_score": 7207,
+        "metal_score": "21160",
+        "model_identifier": "iPad13,4",
+        "processor": "Apple M1",
+        "processor_frequency": "3190 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "iPad (9th generation)",
+        "description": "Apple A13 Bionic @ 2.7 GHz",
+        "multi_core_score": 3303,
+        "metal_score": "N/A",
+        "model_identifier": "iPad12,1",
+        "processor": "Apple A13 Bionic",
+        "processor_frequency": "2660 MHz",
+        "processor_cores": 6
+    },
+    {
+        "name": "iPad (8th generation)",
+        "description": "Apple A12 Bionic @ 2.5 GHz",
+        "multi_core_score": 2506,
+        "metal_score": "5419",
+        "model_identifier": "iPad11,6",
+        "processor": "Apple A12 Bionic",
+        "processor_frequency": "2490 MHz",
+        "processor_cores": 6
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra 5G",
+        "description": "Samsung Exynos 2100 @ 2.2 GHz",
+        "multi_core_score": 3075,
+        "vulkan_score": "5908",
+        "opencl_score": "6779",
+        "processor": "Samsung Exynos 2100",
+        "processor_frequency": "2210 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "Samsung Galaxy S21 5G",
+        "description": "Samsung Exynos 2100 @ 2.2 GHz",
+        "multi_core_score": 2990,
+        "vulkan_score": "5594",
+        "opencl_score": "6407",
+        "processor": "Samsung Exynos 2100",
+        "processor_frequency": "2210 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "Xiaomi 11T Pro",
+        "description": "Qualcomm Snapdragon 888 @ 1.8 GHz",
+        "multi_core_score": 3087,
+        "vulkan_score": "4398",
+        "opencl_score": "4696",
+        "processor": "Qualcomm Snapdragon 888",
+        "processor_frequency": "1804 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "Xiaomi 11T",
+        "description": "MediaTek Dimensity 1200 @ 2.0 GHz",
+        "multi_core_score": 2854,
+        "vulkan_score": "4886",
+        "opencl_score": "4946",
+        "processor": "MediaTek Dimensity 1200",
+        "processor_frequency": "2000 MHz",
+        "processor_cores": 8
+    },
+    {
+        "name": "Huawei P40 Pro",
+        "description": "HiSilicon Kirin 990 @ 2.0 GHz",
+        "multi_core_score": 2930,
+        "vulkan_score": "3974",
+        "opencl_score": "4269",
+        "processor": "HiSilicon Kirin 990",
+        "processor_frequency": "1954 MHz",
+        "processor_cores": 8
+    }
+]
